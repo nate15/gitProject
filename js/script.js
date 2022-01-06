@@ -1,1 +1,2 @@
-const a = "hi world"
+const a = 100
+
